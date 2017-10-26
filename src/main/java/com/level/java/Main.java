@@ -1,4 +1,4 @@
-package main.java.com.level.java;
+package com.level.java;
 
 public class Main {
     public static void main(String[] args) {
